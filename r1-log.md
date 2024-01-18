@@ -14,13 +14,11 @@ Started by learning about git and setting up my environment. Also, I found this 
 Practicing booleans and logical operators in JS on Day 3 of #100DaysOfCode! 💻💡 Learning the basics is a crucial step, and I'm embracing the process. Remember, we all start somewhere! What's your recent coding triumph or challenge? Let's inspire each other! 
 
 ### R1D4
-
-
-### R1D4
+I solved a problem that was holding me back, basically a node package manager. The tip of the day is to keep your tools up-to-date.
 
 
 ### R1D5
-
+I practiced some basic JavaScript concepts: data types, functions, objects, strings, arrays, and corresponding methods. To remember and practice quick exercises, W3Schools is a great recommendation.
 
 ### R1D6
 
